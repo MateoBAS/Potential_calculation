@@ -31,7 +31,7 @@ The simulation is particularly useful for understanding basic principles of elec
 1. Download and install [Processing](https://processing.org/download/).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/tu-usuario/potential_calculation.git
+   git clone https://github.com/MateoBAS/Potential_calculation.git
 3. Open the .pde file in Processing.
 4. Run the sketch
 
