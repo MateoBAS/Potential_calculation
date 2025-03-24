@@ -38,9 +38,9 @@ The simulation is particularly useful for understanding basic principles of elec
 ## Numerical method
 The electric potential distribution is calculated using the Relaxation Method (Gauss–Seidel method) [1], an iterative numerical technique for solving Laplace's equation:
 
+$$
 \nabla^2 V = 0 \quad \Rightarrow \quad V_{i,j} = \frac{1}{4}(V_{i-1,j} + V_{i+1,j} + V_{i,j-1} + V_{i,j+1})
-
-Discretized as: <img src="https://latex.codecogs.com/svg.latex?V_{i,j} = \frac{1}{4}(V_{i-1,j} + V_{i+1,j} + V_{i,j-1} + V_{i,j+1})" />.
+$$
 
 ## License
 This project is licensed under the MIT License.
