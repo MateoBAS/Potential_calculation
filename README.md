@@ -1,6 +1,6 @@
 # Electric Potential Simulator
 
-![Demo of the electric potential simulator](example.gif)
+![Demo of the electric potential simulator](Example.gif)
 
 ## Description
 This project is an interactive electric potential simulator built using Processing. It allows users to visualize and calculate electric potential distributions in a 2D grid. Users can:
