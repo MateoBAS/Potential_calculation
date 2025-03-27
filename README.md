@@ -46,5 +46,4 @@ $$
 This project is licensed under the MIT License.
 
 ## References
--Thijssen, J. (2007). *Computational Physics* (2nd ed.). Cambridge University Press.  
- *Appendix A7.2: Partial differential equations, (pp. 578-590).
+[1] Thijssen, J. (2007). *Computational Physics* (2nd ed.). Cambridge University Press. Appendix A7.2: Partial differential equations, (pp. 578-590).
